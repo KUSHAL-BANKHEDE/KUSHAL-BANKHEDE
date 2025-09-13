@@ -50,7 +50,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="(https://www.linkedin.com/in/kushal-bankhede/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kushal-bankhede/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 
 
 </p>
@@ -102,4 +102,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://deepanshu-sahu-portfolio.netlify.app/">Kushal Bankhede</a></p>
+<p align="right" > Created with 🧡 by Kushal Bankhede</p>
